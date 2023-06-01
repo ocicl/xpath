@@ -1,0 +1,9 @@
+* xpath
+
+Common Lisp Implementation of the XML Path Language (XPath) Version 1.0
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/sharplispers/xpath.git |
+| commit  | d364da6                                       |
+| systems | xpath                                         |
+|---------+-----------------------------------------------|
